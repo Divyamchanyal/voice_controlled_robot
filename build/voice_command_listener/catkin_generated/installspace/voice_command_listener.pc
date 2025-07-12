@@ -1,0 +1,8 @@
+prefix=/home/divyam/voice_robot_ws/install
+
+Name: voice_command_listener
+Description: Description of voice_command_listener
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
